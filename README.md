@@ -5,7 +5,7 @@ https://github.com/diegoramosds/projeto-cordel/assets/140274064/3996a590-f030-4c
 
 ## 💻 Sobre o projeto 
 
-- 
+- Um site inspirado na literatura de cordel, trazendo um design fluido e um efeito de parallax que proporciona uma experiência visual dinâmica. Focando na simplicidade e na estética tradicional dos cordéis.
 
 
 ## 🚀 Tecnologias utilizadas: <br>
@@ -15,9 +15,9 @@ https://github.com/diegoramosds/projeto-cordel/assets/140274064/3996a590-f030-4c
 
 
 ## ✨ Destaques
-  - Layout responsivo <br>
-  - Efeitos visuais  <br>
-  - Design moderno
+  - Layout responsivo adaptável a diferentes dispositivos<br>
+  - Efeito Parallax para um visual imersivo  <br>
+  - Código limpo e organizado, ideal para aprendizado e inspiração
 
 
 ## 🚀 Como rodar o projeto
