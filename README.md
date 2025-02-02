@@ -9,9 +9,9 @@ https://github.com/diegoramosds/projeto-cordel/assets/140274064/3996a590-f030-4c
 
 
 ## 🚀 Tecnologias utilizadas: <br>
-- ✔️ Html
-- ✔️ css
-- ✔️ JavaScript
+- ✔️ **Html**
+- ✔️ **css**
+- ✔️ **JavaScript**
 
 ## ✨ Destaques
  **📱 Layout Responsivo** – Adaptável a diferentes dispositivos e tamanhos de tela.
