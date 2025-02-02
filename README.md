@@ -9,15 +9,16 @@ https://github.com/diegoramosds/projeto-cordel/assets/140274064/3996a590-f030-4c
 
 
 ## 🚀 Tecnologias utilizadas: <br>
-  - Html <br>
-  - css <br>
-  - JavaScript
-
+- ✔️ Html
+- ✔️ css
+- ✔️ JavaScript
 
 ## ✨ Destaques
-  - Layout responsivo adaptável a diferentes dispositivos<br>
-  - Efeito Parallax para um visual imersivo  <br>
-  - Código limpo e organizado, ideal para aprendizado e inspiração
+ **📱 Layout Responsivo** – Adaptável a diferentes dispositivos e tamanhos de tela.
+
+ **🎭 Efeito Parallax** – Proporciona uma experiência visual imersiva e moderna.
+ 
+ **🧑‍💻 Código Limpo e Organizado** – Estruturado para facilitar aprendizado e reutilização.
 
 
 ## 🚀 Como rodar o projeto
